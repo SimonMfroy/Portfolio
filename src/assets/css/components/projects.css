@@ -1,0 +1,20 @@
+/* PROJECTS */
+
+#projects .card {
+  margin-bottom: 60px;
+  /*width: 18rem;
+  height: 25rem;*/
+}
+
+#projects .TopCard {
+  display: inline-flex;
+}
+
+/*#projects .card img {
+	width: 18rem;
+	height:250px; 
+}
+#projects .card video {
+	width: 18rem;
+	height:250px;
+}*/
