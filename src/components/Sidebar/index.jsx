@@ -20,25 +20,25 @@ const Sidebar = () => {
             <div className="navbar-collapse sidebar collapse show">
               <ul className="flex-column navbar-nav w-100 justify-content-between">
                 <li className="nav-item">
-                  <Link to="/about"><AccountCircleIcon color="#008073" /> About</Link>
+                  <Link to="/apropos"><AccountCircleIcon color="#008073" /> A Propos</Link>
                 </li>
                 <li className="nav-item">
                   <Link to="/experience"><TrendingUpIcon color="#008073" /> Experience</Link>
                 </li>
                 <li className="nav-item">
-                  <Link to="/projects"><WebIcon color="#008073" /> Projects</Link>
+                  <Link to="/projets"><WebIcon color="#008073" /> Projecs</Link>
                 </li>
                 <li className="nav-item">
-                  <Link to="/skills"><EqualizerIcon color="#008073" /> Skills</Link>
+                  <Link to="/competences"><EqualizerIcon color="#008073" /> Compétences </Link>
                 </li>
                 <li className="nav-item">
-                  <Link to="/education"><SchoolIcon color="#008073" /> Education</Link>
+                  <Link to="/education"><SchoolIcon color="#008073" /> Education </Link>
                 </li>
                 <li className="nav-item">
-                  <Link to="/misc"><ControllerClassicIcon color="#008073" /> Misc</Link>
+                  <Link to="/passions"><ControllerClassicIcon color="#008073" /> Passions </Link>
                 </li>
                 <li className="nav-item">
-                  <Link to="/contact"><EmailIcon color="#008073" /> Contact</Link>
+                  <Link to="/contact"><EmailIcon color="#008073" /> Contact </Link>
                 </li>
               </ul>
             </div>

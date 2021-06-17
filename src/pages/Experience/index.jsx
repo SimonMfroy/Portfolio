@@ -85,7 +85,7 @@ const Experience = () => {
           </div>
           <div className="role brown-text">Voyage linguistique</div>
           <p>
-            Un voyage en amérique du sud principalement, pour apprendre l'espagnol ainsi que différentes cultures.
+            Un voyage en amérique du sud principalement, pour apprendre l'espagnol, conforter mon niveau d'anglais ainsi que de découvrir différentes cultures.
           </p>
           <h6>Pays visités</h6>
           <ul>
@@ -127,7 +127,7 @@ const Experience = () => {
           </div>
           <div className="role brown-text">Voyage linguistique</div>
           <p>
-            De 2011 à 2016 j'ai eu plusieurs emplois dans différents domaines, essayant d'en trouver un me plairait ou simplement pour avoir un emploi "alimentaire".
+            De 2011 à 2016 j'ai eu plusieurs emplois dans différents domaines, essayant d'en trouver un qui me plairait ou simplement pour avoir un emploi "alimentaire".
           </p>
           <h6>Différentes expériences :</h6>
           <ul>

@@ -26,13 +26,13 @@ const App = () => (
       <main className="col bg-faded py-3">
         <Switch>
           <Route path="/" exact component={Home} />
-          <Route path="/about" component={About} />
-          <Route path="/experience" component={Experience} />
-          <Route path="/education" component={Education} />
-          <Route path="/projects" component={Projects} />
-          <Route path="/skills" component={Skills} />
-          <Route path="/misc" component={Misc} />
-          <Route path="/contact" component={Contact} />
+          <Route path="/apropos" exact component={About} />
+          <Route path="/experience" exact component={Experience} />
+          <Route path="/education" exact component={Education} />
+          <Route path="/projets" exact component={Projects} />
+          <Route path="/competences" exact component={Skills} />
+          <Route path="/passions" exact component={Misc} />
+          <Route path="/contact" exact component={Contact} />
         </Switch>
       </main>
     </div>
