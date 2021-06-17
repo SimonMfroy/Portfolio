@@ -125,7 +125,7 @@ const Experience = () => {
               </p>
             </div>
           </div>
-          <div className="role brown-text">Voyage linguistique</div>
+          <div className="role brown-text">Divers</div>
           <p>
             De 2011 à 2016 j'ai eu plusieurs emplois dans différents domaines, essayant d'en trouver un qui me plairait ou simplement pour avoir un emploi "alimentaire".
           </p>
