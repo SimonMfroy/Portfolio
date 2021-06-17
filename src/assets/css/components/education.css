@@ -31,6 +31,8 @@
   padding: 16px;
 }
 
-.card-product h2 {
-
+.card-product a {
+  text-decoration: none;
+  text-transform: none;
+  color:white;
 }

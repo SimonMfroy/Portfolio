@@ -6,7 +6,7 @@ import progame from "assets/images/progame.png"
 import telephoneose from "assets/images/telephoneHome.png"
 import telephoneoseVid from 'assets/videos/telephone.mp4'
 import progameVid from 'assets/videos/progame.movie.mp4'
-import farmsquareVid from 'assets/videos/FarmSquareMovie.mp4'
+import farmsquareVid from 'assets/videos/farmsquare.mp4'
 
 const Projects = () => {
 

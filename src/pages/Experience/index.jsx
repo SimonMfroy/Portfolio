@@ -19,17 +19,25 @@ const Experience = () => {
         <div className="card-content">
           <div className="row">
             <div className="col s12 m2">
-              <a href="#"><img alt="GrandLyon logo" src={grandlyon} className="responsive-img center-block"/></a>
+              <p><img alt="GrandLyon logo" src={grandlyon} className="responsive-img center-block"/></p>
             </div>
             <div className="col s12 m2">
               <p>
-                <span className="card-title"><a href="#" className="teal-text hoverline">l'IDEF</a></span>
+                <span className="card-title"><p href="#" className="teal-text hoverline">l'IDEF</p></span>
               </p>
             </div>
           </div>
           <div className="role brown-text">Employé polyvalent</div>
           <p>
-            L'IDEF, pour Institut Département de l'Enfance et de la Famille, est un centre d'accueil d'urgence pour enfants en difficultés
+            L'IDEF, pour Institut Département de l'Enfance et de la Famille, est un centre d'accueil d'urgence pour enfants en difficultés.
+            J'ai occupé plusieurs postes dans ce centre, le dernier étant Employé polyvalent.
+          </p>
+          <p> 
+            Mais j'ai également fait du standard, de la preparation
+            de commandes, de la livraison entre autre. J'ai aussi occupé un poste à la buanderie ou encore initié un tri des archives de plus de vingt ans.
+          </p>
+          <p>
+            Très polyvalent et ayant un bon contact pour m'intégrer rapidement aux équipes déjà en place, je venais renforcer les secteurs qui en avaient besoin.
           </p>
         </div>
         </Card.Body>
@@ -43,17 +51,17 @@ const Experience = () => {
         <div className="card-content">
           <div className="row">
             <div className="col s12 m2">
-              <a href="https://www.dominos.fr/"><img alt="Dominos logo" src={crocknroll} className="responsive-img center-block bg-dark"/></a>
+              <p><img alt="crocknroll logo" src={crocknroll} className="responsive-img center-block bg-dark"/></p>
             </div>
             <div className="col s12 m10">
               <p>
-                <span className="card-title"><a href="#" className="teal-text hoverline">Crock'n Roll</a></span>
+                <span className="card-title"><p className="teal-text hoverline">Crock'n Roll</p></span>
               </p>
             </div>
           </div>
           <div className="role brown-text">Barman / Serveur</div>
           <p>
-            Le Crock'n Roll est un restaurant présent à Lyon
+            Le Crock'n Roll est un restaurant présent à Lyon, principalement barman j'ai aussi fais du service lorsque nécessaire.
           </p>
         </div>
         </Card.Body>
@@ -67,11 +75,11 @@ const Experience = () => {
         <div className="card-content">
           <div className="row">
             <div className="col s12 m2">
-              <a href="#"><img alt="Dominos logo" src={langues} className="responsive-img center-block"/></a>
+              <p><img alt="different flag for langages" src={langues} className="responsive-img center-block"/></p>
             </div>
             <div className="col s12 m10">
               <p>
-                <span className="card-title"><a href="#" className="teal-text hoverline">Voyage linguistique</a></span>
+                <span className="card-title"><p className="teal-text hoverline"></p></span>
               </p>
             </div>
           </div>
@@ -109,17 +117,17 @@ const Experience = () => {
         <div className="card-content">
           <div className="row">
             <div className="col s12 m2">
-              <a href="#"><img alt="Dominos logo" src={divers} className="responsive-img center-block"/></a>
+              <p><img alt="Small earth" src={divers} className="responsive-img center-block"/></p>
             </div>
             <div className="col s12 m10">
               <p>
-                <span className="card-title"><a href="#" className="teal-text hoverline">Divers</a></span>
+                <span className="card-title"><p className="teal-text hoverline"></p></span>
               </p>
             </div>
           </div>
           <div className="role brown-text">Voyage linguistique</div>
           <p>
-            De 2011 j'ai eu plusieurs emplois dans différents domaines, essayant de trouver un domaine qui me plairait.
+            De 2011 à 2016 j'ai eu plusieurs emplois dans différents domaines, essayant d'en trouver un me plairait ou simplement pour avoir un emploi "alimentaire".
           </p>
           <h6>Différentes expériences :</h6>
           <ul>

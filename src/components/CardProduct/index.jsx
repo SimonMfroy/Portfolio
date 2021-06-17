@@ -9,7 +9,7 @@ const CardProduct = (props) => {
       <div className="card-product-infos">
         <h2>{props.title}</h2>
         <p>{props.location} - {props.date}</p>
-        <Button variant="primary">Découvrir</Button>{''}
+        <Button variant="primary"><a href={props.link}>Découvrir</a></Button>{''}
       </div>
       <div className="card-product-school">
         <p>{props.description}<strong>{props.strong}</strong></p>
