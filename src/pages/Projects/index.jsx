@@ -22,7 +22,7 @@ const Projects = () => {
               list2="ReactJS"
               list3="html/css"
               list4="Github"
-              content="Application pour organisation de tâches à effectuer par des membres"
+              content="Site pour association promouvant l'agriculture écologique en ville - Contrainte : 2 semaines en binôme"
               backTitle="Application créée pour une association"
               video={farmsquareVid}
               image={farmSquare}
@@ -35,7 +35,8 @@ const Projects = () => {
               list2="Javascript"
               list3="PostgreSql"
               list4="Heroku"
-              content="Offrez-vous votre chanson préféré chanté au téléphone par un artiste, pour un moment unique et plein d'émotions."
+              content="Offrez-vous votre chanson préféré chanté au téléphone par un artiste, pour un moment unique et plein d'émotions.
+               - Projet réalisé en deux semaines"
               backTitle="Projet de fin de session (fullstack) à THP "
               video={telephoneoseVid}
               image={telephoneose}
@@ -44,8 +45,8 @@ const Projects = () => {
           <Col>
             <ProjectCards
               title="ProGame"
-              content="Un projet pour apprendre la gestion d'API en JS"
-              backTitle="Une simple application de recherches de jeux-vidéos réalisée en 3 jours"
+              content="Un projet pour apprendre la gestion d'API en JS réalisé en une journée."
+              backTitle="Une simple application de recherches de jeux-vidéos"
               video={progameVid}
               image={progame}
             />
