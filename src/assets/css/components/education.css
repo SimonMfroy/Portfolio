@@ -6,7 +6,6 @@
 
 .card-product {
   overflow: hidden;
-  height: 150px;
   background: white;
   display: flex;
   align-items: center;

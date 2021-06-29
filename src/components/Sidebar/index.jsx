@@ -26,7 +26,7 @@ const Sidebar = () => {
                   <Link to="/experience"><TrendingUpIcon color="#008073" /> Experience</Link>
                 </li>
                 <li className="nav-item">
-                  <Link to="/projets"><WebIcon color="#008073" /> Projecs</Link>
+                  <Link to="/projets"><WebIcon color="#008073" /> Projets</Link>
                 </li>
                 <li className="nav-item">
                   <Link to="/competences"><EqualizerIcon color="#008073" /> Compétences </Link>
